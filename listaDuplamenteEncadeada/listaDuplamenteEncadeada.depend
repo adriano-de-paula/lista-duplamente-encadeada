@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1652713033 source:c:\users\adriano\desktop\faculdade ads\3°semestre\1 - estrutura de dados i\pratica_exercicios\listaduplamenteencadeada_xavecoding\listaduplamenteencadeada\list.c
+	"list.h"
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+
+1652713033 c:\users\adriano\desktop\faculdade ads\3°semestre\1 - estrutura de dados i\pratica_exercicios\listaduplamenteencadeada_xavecoding\listaduplamenteencadeada\list.h
+	<stdbool.h>
+
+1652122947 source:c:\users\adriano\desktop\faculdade ads\3°semestre\1 - estrutura de dados i\pratica_exercicios\listaduplamenteencadeada_xavecoding\listaduplamenteencadeada\main.c
+	"list.h"
+	<stdio.h>
+
